@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lavkusharyan123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lavkusharyan123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lavkush kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavkush kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lavkush-kumar-95b4a9322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavkush kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/lovkush_aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lavkush_aryan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/Lavkush Aryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lavkusharyan123" height="30" width="40" /></a>
 </p>
